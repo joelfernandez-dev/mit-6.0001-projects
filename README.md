@@ -37,5 +37,34 @@ Skills practiced:
 - Testing and debugging
 - Managing program state
 
+  ## PSet 4 - Recursion & Ciphers
+
+A collection of projects exploring recursion, object-oriented programming, and classical cryptography.
+
+### Features
+
+- Recursive string permutation generator
+- Caesar cipher encryption
+- Caesar cipher decryption
+- Automatic shift detection
+- Object-oriented message hierarchy
+- Substitution cipher
+- Automatic substitution cipher decryption
+- Dictionary-based word validation
+- Unit testing
+
+### Skills practiced
+
+- Recursion
+- Object-Oriented Programming (OOP)
+- Inheritance
+- Classes and methods
+- Dictionaries
+- String manipulation
+- Cryptography fundamentals
+- Brute-force search
+- Defensive copying
+- Testing and debugging
+
 
 
